@@ -28,7 +28,7 @@ const data = await res.json();
 
 - Source: India Post open data
 - License: CC-BY-4.0
-- Last updated: `2026-08-25T02:56:36.816Z`
+- Last updated: `2026-08-25T03:04:42.541Z`
 
 See `data/` for raw JSON and `data/schema.json` for the schema.
 
