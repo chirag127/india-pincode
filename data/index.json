@@ -1,0 +1,6 @@
+[
+  [
+    "/data/pincodes.json",
+    "/data/pincodes/{pin}.json"
+  ]
+]
